@@ -1,78 +1,22 @@
-# Repositorio base del Curso de Introducción a React.js en Platzi
+# Lista de Tareas con React
 
-¡Hola, Platzinauta!
+Este proyecto se realiza con el propósito de aprender y practicar React. El objetivo principal de esta aplicación es crear una lista de tareas en la que los usuarios puedan agregar tareas, marcarlas como completadas o eliminarlas. Además, la aplicación incluirá una barra de búsqueda que permitirá a los usuarios buscar tareas específicas.
 
-En este repositorio encontrarás el código de todas las clases del [Curso de Introducción a React.js](https://platzi.com/reactjs). Para empezar solo debes clonar este repositorio (`git clone`), instalar sus dependencias (`npm i`) y ejecutar la aplicación (`npm start`).
+## Sobre Platzi
 
-La rama principal contiene el código con el que eempezamos el curso. En las demás ramas encontrarás el código de las siguientes clases y finalmente el deploy de la aplicación.
+Este proyecto forma parte del curso de React en [Platzi](https://platzi.com/), una plataforma de aprendizaje en línea que ofrece una amplia gama de cursos en tecnología, diseño, negocios y otras áreas. El contenido de este repositorio está vinculado al curso de React en Platzi.
 
-¡Mucha suerte aprendiendo React! #NuncaParesDeAprender
+## Tecnologías Utilizadas
 
-## Getting Started with Create React App
+- React: Esta aplicación utiliza React como biblioteca principal para construir la interfaz de usuario.
+- HTML y CSS: Se utilizan para dar estructura y estilo a la aplicación.
+- JavaScript: Se utiliza para la lógica de la aplicación.
+- [Otras tecnologías y bibliotecas que puedas estar usando]
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Instrucciones de Uso
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# Lista-de-tareas
-# Lista-de-tareas
-# Lista-de-tareas
+1. Clona este repositorio en tu computadora local.
+2. Abre una terminal y navega hasta la carpeta del proyecto.
+3. Ejecuta `npm install` para instalar las dependencias.
+4. Ejecuta `npm start` para iniciar la aplicación en modo desarrollo.
+5. Abre tu navegador y accede a `http://localhost:3000` para ver la aplicación en funcionamiento.
